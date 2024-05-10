@@ -109,7 +109,10 @@ Data processing and visualization are executed using Python and the Open3D libra
 
 15-Layer scan of the Hallway using Open3D
 
-![Angled_Scan.png](https://github.com/Tirth-Nagar/LieDAR-3D-Spatial-Mapping/blob/2830078ba3c2d4bd4af3525be7b3637d44c96efa/Assets/Angled.png) ![Front_Scan.png](https://github.com/Tirth-Nagar/LieDAR-3D-Spatial-Mapping/blob/2830078ba3c2d4bd4af3525be7b3637d44c96efa/Assets/Front.png)
+Angled 3D Map             |  Front View of 3D Map
+:-------------------------:|:-------------------------:
+![Angled_Scan.png](https://github.com/Tirth-Nagar/LieDAR-3D-Spatial-Mapping/blob/2830078ba3c2d4bd4af3525be7b3637d44c96efa/Assets/Angled.png)  |  ![Front_Scan.png](https://github.com/Tirth-Nagar/LieDAR-3D-Spatial-Mapping/blob/2830078ba3c2d4bd4af3525be7b3637d44c96efa/Assets/Front.png)
+ 
 
 Hallway in question:
 
