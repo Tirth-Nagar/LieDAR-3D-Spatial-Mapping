@@ -2,6 +2,10 @@
 
 The TGN-6909 is a compact and cost-effective embedded spatial measurement system designed for indoor 3D mapping. It utilizes time-of-flight sensing technology and a rotary mechanism to provide precise 360-degree distance measurements within a single vertical plane, while integrating fixed distance samples along the orthogonal axis.
 
+### Device Image
+
+![Device_Image.png](https://github.com/Tirth-Nagar/LieDAR-3D-Spatial-Mapping/blob/2830078ba3c2d4bd4af3525be7b3637d44c96efa/Assets/Product.jpg)
+
 ## Features
 
 - Built-in error checking and on-the-fly error mitigation
@@ -102,3 +106,13 @@ Data processing and visualization are executed using Python and the Open3D libra
 ![Block-Diagram.png](https://github.com/Tirth-Nagar/LieDAR-3D-Spatial-Mapping/blob/2830078ba3c2d4bd4af3525be7b3637d44c96efa/Assets/Block%20Diagram.png)
 
 ### Results
+
+15-Layer scan of the Hallway using Open3D
+
+![Angled_Scan.png](https://github.com/Tirth-Nagar/LieDAR-3D-Spatial-Mapping/blob/2830078ba3c2d4bd4af3525be7b3637d44c96efa/Assets/Angled.png) ![Front_Scan.png](https://github.com/Tirth-Nagar/LieDAR-3D-Spatial-Mapping/blob/2830078ba3c2d4bd4af3525be7b3637d44c96efa/Assets/Front.png)
+
+Hallway in question:
+
+![Hallway.png](https://github.com/Tirth-Nagar/LieDAR-3D-Spatial-Mapping/blob/2830078ba3c2d4bd4af3525be7b3637d44c96efa/Assets/Hallway.jpg)
+
+
