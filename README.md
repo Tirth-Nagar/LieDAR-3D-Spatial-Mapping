@@ -52,7 +52,7 @@ The TGN-6909 is a compact and cost-effective embedded spatial measurement system
 
 ### Schematic
 
-![Schematic.png](Assets\Schematic.png)
+![Schematic.png](https://github.com/Tirth-Nagar/LieDAR-3D-Spatial-Mapping/blob/2830078ba3c2d4bd4af3525be7b3637d44c96efa/Assets/Schematic.png)
 
 ## Device Overview
 
@@ -99,6 +99,6 @@ Data processing and visualization are executed using Python and the Open3D libra
 
 ### Block Diagram
 
-![Block-Diagram.png](Assets\Block Diagram.png)
+![Block-Diagram.png](https://github.com/Tirth-Nagar/LieDAR-3D-Spatial-Mapping/blob/2830078ba3c2d4bd4af3525be7b3637d44c96efa/Assets/Block%20Diagram.png)
 
 ### Results
