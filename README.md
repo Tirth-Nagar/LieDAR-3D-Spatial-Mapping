@@ -19,7 +19,7 @@ The TGN-6909 is a compact and cost-effective embedded spatial measurement system
 ## Hardware Setup
 
 ### MSP432E401Y
-<center>
+
 | Parameter | Value |
 |------------|-------|
 | Clock Speed | 96 MHz |
@@ -53,7 +53,7 @@ The TGN-6909 is a compact and cost-effective embedded spatial measurement system
 | GND | GND |
 | SCL | PB2 |
 | SDA | PB3 |
-</center>
+
 ### Schematic
 
 ![Schematic.png](https://github.com/Tirth-Nagar/LieDAR-3D-Spatial-Mapping/blob/2830078ba3c2d4bd4af3525be7b3637d44c96efa/Assets/Schematic.png)
